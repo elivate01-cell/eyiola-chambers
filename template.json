@@ -1,0 +1,24 @@
+{
+  "name": "Eyiola & Chambers",
+  "slug": "eyiola-chambers",
+  "concept": "Law firm",
+  "category": "professional-services",
+  "subcategory": "law-firm",
+  "description": "Formal law-firm site in deep navy with spectral serif: practice areas grid, counsel profiles, representative matters ledger and office info.",
+  "design_family": "deepformal-serif",
+  "pages": [
+    "index.html",
+    "practice.html"
+  ],
+  "features": [
+    "formal serif masthead",
+    "practice areas grid",
+    "counsel profile cards",
+    "representative matters ledger",
+    "consultation request panel",
+    "two-page structure"
+  ],
+  "recommended_tier": "free-or-pro-review",
+  "preview_image": "preview/cover.png",
+  "status": "local-draft"
+}
